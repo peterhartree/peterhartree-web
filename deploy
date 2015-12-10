@@ -1,0 +1,2 @@
+git push beanstalk master;
+git subtree push --prefix _site github gh-pages;

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://web.peterhartree.co.uk/jekyll/update/2015/11/21/welcome-to-jekyll.html</loc>
+    <lastmod>2015-11-21T15:37:58+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://web.peterhartree.co.uk/about/</loc>
+  </url>
+  <url>
+    <loc>https://web.peterhartree.co.uk/</loc>
+  </url>
+    <url>
+      <loc>https://web.peterhartree.co.uk/jekyll/update/2015/11/21/welcome-to-jekyll.html</loc>
+    </url>
+  <url>
+    <loc>https://web.peterhartree.co.uk/assets/fonts/nexa_bold_macroman/Nexa_Bold-demo.html</loc>
+    <lastmod>2015-11-18T04:55:38+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://web.peterhartree.co.uk/assets/fonts/nexa_heavy_macroman/Nexa_Heavy-demo.html</loc>
+    <lastmod>2015-11-18T04:55:38+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://web.peterhartree.co.uk/assets/fonts/nexa_regular_macroman/Nexa_Regular-demo.html</loc>
+    <lastmod>2015-11-18T04:55:38+00:00</lastmod>
+  </url>
+</urlset>

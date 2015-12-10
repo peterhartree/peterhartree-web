@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'kramdown'
+gem 'rouge'
+gem 'jekyll-watch'
+gem 'jekyll-sitemap'
+gem 'jekyll-press'
+gem 'jekyll-assets'
